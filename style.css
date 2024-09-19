@@ -1,0 +1,12 @@
+:root {
+  color-scheme: dark light;
+}
+
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100dvh;
+  width: 100%;
+}
